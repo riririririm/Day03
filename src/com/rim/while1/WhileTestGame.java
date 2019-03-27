@@ -103,7 +103,7 @@ public class WhileTestGame {
 		if(login!=2)
 		System.out.println("결과 레벨:"+level+" 현재 골드:"+totalG);
 		
-		
+		sc.close();
 
 	}
 }
